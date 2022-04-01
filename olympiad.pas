@@ -1,0 +1,3 @@
+program olympiad; 
+begin 
+end.

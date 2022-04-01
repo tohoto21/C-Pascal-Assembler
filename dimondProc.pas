@@ -1,0 +1,3 @@
+program dimondProc; 
+begin 
+end.
